@@ -10,7 +10,6 @@ I mostly do frontent work rn, might make a proxy in the future :D
 
 - [Degeneracy](https://github.com/Degenerate0001/Degeneracy) - A proxy site that is functional and easy to use!
 - [Neodymium](https://github.com/Degenerate0001/Neodymium) - Addon to [Vanadium](https://github.com/TitaniumNetwork-Dev/Vanadium)
-- [ResilienceFOSS](https://github.com/Degenerate0001/ResilienceFOSS) - Open-Source version of [MikeLime's](https://github.com/MikeLime-dev) Resilience!
 
 **Languages**
 - Html, CSS, JS
