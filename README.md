@@ -8,8 +8,8 @@ I mostly do frontent work rn, might make a proxy in the future :D
 
 **Projects**
 
-- [Degeneracy](https://github.com/Degenerate0001/Degeneracy) - A proxy site that is functional and easy to use!
-- [Neodymium](https://github.com/Degenerate0001/Neodymium) - Addon to [Vanadium](https://github.com/TitaniumNetwork-Dev/Vanadium)
+- [Degeneracy](https://github.com/Degen-dev/Degeneracy) - A proxy site that is functional and easy to use!
+- [Neodymium](https://github.com/Degen-dev/Neodymium) - Addon to [Vanadium](https://github.com/TitaniumNetwork-Dev/Vanadium)
 
 **Languages**
 - Html, CSS, JS
@@ -17,4 +17,5 @@ I mostly do frontent work rn, might make a proxy in the future :D
 
 **Where to talk to me**
 
-You can talk to me on Discord **@Degenerate#0001**
+Discord: `@Degenerate#0001`
+Matrix: `degenerate0001:matrix.org`
