@@ -19,3 +19,5 @@ I mostly do basic frontend web development and some other general stuff.
 Discord: `@Degenerate#0001`
 
 Matrix: `degenerate0001:matrix.org`
+
+[![Degen-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Degen-dev&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
