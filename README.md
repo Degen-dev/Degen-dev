@@ -1,4 +1,4 @@
-### Degenerate
+# Degenerate
 
 **What I Do**
 
@@ -11,8 +11,8 @@ I mostly do basic frontend web development and some other general stuff.
 - [Neodymium](https://github.com/Degen-dev/Neodymium) - Addon to [Vanadium](https://github.com/TitaniumNetwork-Dev/Vanadium)
 
 **Languages**
-- HTML, CSS, Javascript
-- Go
+- [HTML](https://github.com/topics/html), [CSS](https://github.com/topics/css), [Javascript](https://www.javascript.com/)
+- [Go](https://go.dev)
 
 **Where to talk to me**
 
